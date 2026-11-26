@@ -40,6 +40,8 @@ class manager extends employee{
         double total = salary + bonus;
 
         System.out.println("Total Salary : " + total);
+
+        System.out.println("Hello world");
     }
 }
 
